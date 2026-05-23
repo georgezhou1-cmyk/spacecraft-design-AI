@@ -1,4 +1,4 @@
-# 🚀 AI Aerospace Design System
+# 🚀 NovaForge (An AI Aerospace Design System)
 
 An AI-powered aerospace concept design and simulation platform that combines:
 
