@@ -183,6 +183,8 @@ Planned upgrades:
 
 # ⚠️ Disclaimer
 
+#Users should input their own API keys to run the project (truly recommand ChatGPT API)
+
 This project is an educational and experimental aerospace simulation prototype.
 
 It is NOT intended for real-world aerospace engineering or mission-critical applications.
